@@ -35,6 +35,6 @@ I'm Darshik, a developer and tech enthusiast with a passion for building innovat
 
 #### 📫 How to reach me
 - Email: gajjardarshik1995@gmail.com
-- Telegram: (@oneironautiics)[https://t.me/oneironautiics]
+- Telegram: [@oneironautiics](https://t.me/oneironautiics)
 
 Thanks for stopping by! Feel free to check out my repositories and connect with me.
