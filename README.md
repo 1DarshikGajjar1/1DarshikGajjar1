@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Darshik, a developer and tech enthusiast with a passion for building innovative solutions. I thrive on exploring the potential of APIs to create impactful projects. My GitHub is a reflection of my journey, where I leverage various APIs to craft solutions that streamline processes, analyze data, and enhance productivity.
+I'm Darshik, a Civil Engineeer, a Construction Project Manager, a developer and tech enthusiast with a passion for building innovative solutions. I thrive on exploring the potential of APIs to create impactful projects. My GitHub is a reflection of my journey, where I leverage various APIs to craft solutions that streamline processes, analyze data, and enhance productivity.
 
 #### 💻 Technologies & Tools
 - **Languages**: JavaScript, Python, SQL
