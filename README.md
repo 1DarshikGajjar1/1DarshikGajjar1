@@ -8,7 +8,7 @@ I'm Darshik, a Civil Engineeer, a Construction Project Manager, a developer and 
 - **Databases**: PostgreSQL
 - **Platforms**: Heroku
 - **APIs**: OpenAI API, MyFitnessPal API, Google Fit API, Kite API, Fyers API, Twitter API, Todoist API, and more
-- **Tools**: Git, Excel, VS Code
+- **Tools**: Git, Excel, Google-Sheets, VS Code, Jupyter Notebook
 
 #### 📊 Statistical Analysis
 - Proficient in using statistical analysis functions such as average, sum, percentile, and more to extract meaningful insights from data sets.
